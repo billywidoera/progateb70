@@ -55,7 +55,7 @@ body {
     background-attachment: fixed;
     opacity: 1;
 }
-     
+
 .container h1 {
 	margin: 0;
 }
@@ -92,7 +92,7 @@ body {
 .contact-form {
 	padding-top: 100px;
 }
-  
+
 .contact-form input, .contact-form textarea {
 	width: 300px;
 	margin: 10px 0 30px;
@@ -127,3 +127,48 @@ body {
 	box-shadow: none;
   }
 /* Kerjaan Noobmaster */
+
+/* Kerjaan Bayu */
+.team-title {
+	border-bottom: 2px solid #dee7ec;
+	font-size: 28px;
+	padding-bottom: 15px;
+	margin-bottom: 50px;
+}
+
+.team-list {
+	padding:20px;
+	align-content: center;
+	float: left;
+	background-color: #f7fbff;
+	margin:10px;
+	width: 150px;
+	width:16%;
+	text-align:center;
+	display:inline-block;
+}
+
+.icon-male {
+	width: 50%;
+}
+
+.name-title{
+	display: block;
+	font-size:18px;
+		font-weight:bold;
+		padding:0;
+		margin:0;
+}
+
+.job-title{
+	font-size:13px;
+	padding:0;
+	margin:0;
+}
+
+/* Kerjaan Bayu */
+
+
+footer{
+	padding:20px;
+}
