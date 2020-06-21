@@ -1,0 +1,78 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: 'MuseoModerno', cursive;
+}
+
+.heading {
+	margin: 0;
+	padding: 0;
+}
+
+.menu-header {
+	background-color: #B0C4DE;
+	opacity: 0.7;
+	height: 70px;
+	padding-right:  30px;
+	padding-left: 30px;
+	color: black;
+}
+
+.menu-header h1 {
+	float: left;
+	display: inline-block;
+	margin: 0;
+	padding: 9px 5px;
+}
+
+.menu-header ul {
+	margin: auto;
+}
+
+.menu-header ul li {
+	list-style: none;
+	display: inline-block;
+	float: right;
+	padding: 5px 5px;
+	font-size: 22px;
+	margin: 12px 12px;
+}
+
+.menu-header ul li:hover {
+	border-bottom: 1px solid black;
+	cursor: pointer;
+}
+
+.container {
+	color: #000080;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	text-align: center;
+	height: 500px;
+	width: 100%;
+	background:linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url(gambar1.jpg);
+	background-size: cover;
+    background-attachment: fixed;
+    opacity: 1;
+}
+     
+.container h1 {
+	margin: 0;
+}
+
+.container a {
+	height: 30px;
+	width: 150px;
+	background-color: #B0C4DE;
+	display: block;
+	float: left;
+	padding-top: 5px;
+	margin-left: 595px;
+	text-decoration: none;
+	border-radius: 10px;
+	box-shadow: 3px 5px 10px;
+}
+
+.container a:hover {
+	color: black;
+}
