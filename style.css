@@ -76,3 +76,54 @@ body {
 .container a:hover {
 	color: black;
 }
+
+/* Kerjaan Noobmaster */
+.section-title {
+	border-bottom: 2px solid #dee7ec;
+	font-size: 28px;
+	padding-bottom: 15px;
+	margin-bottom: 50px;
+}
+
+.st-icon {
+	padding-right: 10px;
+}
+
+.contact-form {
+	padding-top: 100px;
+}
+  
+.contact-form input, .contact-form textarea {
+	width: 300px;
+	margin: 10px 0 30px;
+	padding: 10px;
+	font-size: 12px;
+	border: 1px solid #dee7ec;
+}
+
+.contact-form .btn {
+	width: 200px;
+	padding: 12px 24px;
+	color: #0041EA;
+	display: inline-block;
+	opacity: 0.8;
+	border-radius: 10px;
+  }
+
+.contact-form .message {
+	width: 150px;
+	font-family: inherit;
+	font-size: 15px;
+	font-weight: bold;
+	padding: 10px;
+	background-color: #B0C4DE;
+	cursor: pointer;
+	box-shadow: 3px 5px 10px #000080;
+}
+
+.message:active {
+	position: relative;
+	top: 5px;
+	box-shadow: none;
+  }
+/* Kerjaan Noobmaster */
