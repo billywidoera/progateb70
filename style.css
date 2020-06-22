@@ -77,20 +77,77 @@ body {
 	color: black;
 }
 
+/* Kerjaan Bayu */
+.container-2 {
+	height: 400px;
+	width: 90%;
+	padding: 40px 0;
+	margin: 0 auto;
+}
+
+.team-1 {
+	text-align: center;
+}
+
+.team-title {
+	border-bottom: 2px solid #dee7ec;
+	font-size: 28px;
+	padding-bottom: 15px;
+	margin-bottom: 50px;
+	text-align: center;
+}
+
+.team-list {
+	padding:20px;
+	align-content: center;
+	float: left;
+	background-color: #f7fbff;
+	margin:10px;
+	width: 150px;
+	width:14%;
+	text-align:center;
+	display:inline-block;
+}
+
+.icon-male {
+	width: 50%;
+}
+
+.name-title{
+	display: block;
+	font-size:18px;
+		font-weight:bold;
+		padding:0;
+		margin:0;
+}
+
+.job-title{
+	font-size:13px;
+	padding:0;
+	margin:0;
+}
+/* Kerjaan Bayu */
+
 /* Kerjaan Noobmaster */
-.section-title {
+.container-3 {
+	display: block;
+	width: 90%;
+	margin: 0 auto;
+}
+
+.contact-form .section-title {
 	border-bottom: 2px solid #dee7ec;
 	font-size: 28px;
 	padding-bottom: 15px;
 	margin-bottom: 50px;
 }
 
-.st-icon {
+span .st-icon {
 	padding-right: 10px;
 }
 
 .contact-form {
-	padding-top: 100px;
+	text-align: center;
 }
 
 .contact-form input, .contact-form textarea {
@@ -121,53 +178,12 @@ body {
 	box-shadow: 3px 5px 10px #000080;
 }
 
-.message:active {
+.contact-form .message:active {
 	position: relative;
 	top: 5px;
 	box-shadow: none;
   }
 /* Kerjaan Noobmaster */
-
-/* Kerjaan Bayu */
-.team-title {
-	border-bottom: 2px solid #dee7ec;
-	font-size: 28px;
-	padding-bottom: 15px;
-	margin-bottom: 50px;
-}
-
-.team-list {
-	padding:20px;
-	align-content: center;
-	float: left;
-	background-color: #f7fbff;
-	margin:10px;
-	width: 150px;
-	width:16%;
-	text-align:center;
-	display:inline-block;
-}
-
-.icon-male {
-	width: 50%;
-}
-
-.name-title{
-	display: block;
-	font-size:18px;
-		font-weight:bold;
-		padding:0;
-		margin:0;
-}
-
-.job-title{
-	font-size:13px;
-	padding:0;
-	margin:0;
-}
-
-/* Kerjaan Bayu */
-
 
 footer{
 	padding:20px;
