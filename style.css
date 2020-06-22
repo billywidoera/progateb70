@@ -25,6 +25,16 @@ body {
 	padding: 9px 5px;
 }
 
+/* Kerjaan Bintang */
+.menu-icon {
+	color: black;
+	float: right;
+	font-size: 25px;
+	padding: 21px 0;
+	display: none;
+  }
+/* Kerjaan Bintang */
+
 .menu-header ul {
 	margin: auto;
 }
@@ -64,10 +74,8 @@ body {
 	height: 30px;
 	width: 150px;
 	background-color: #B0C4DE;
-	display: block;
-	float: left;
+	display: inline-block;
 	padding-top: 5px;
-	margin-left: 595px;
 	text-decoration: none;
 	border-radius: 10px;
 	box-shadow: 3px 5px 10px;
