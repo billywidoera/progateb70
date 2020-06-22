@@ -188,3 +188,10 @@ span .st-icon {
 footer{
 	padding:20px;
 }
+
+.footer {
+	background-color: #B0C4DE;
+  }
+  .footer-list  {
+	float: right;
+	padding: 33px 40px;
